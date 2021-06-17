@@ -1,6 +1,7 @@
 # TailwindCSS Config Import Error Repro
 
-I get the following error when importing `tailwindcss/resolveConfig`. The error occurs when Next.js attempts to compile a page.
+
+I get the following error when importing `tailwindcss/resolveConfig`. The error occurs when Next.js attempts to compile a page. The import is in `pages/index.js`.
 ```
 (node:155489) [DEP_WEBPACK_MODULE_ISSUER] DeprecationWarning: Module.issuer: Use new ModuleGraph API
 
