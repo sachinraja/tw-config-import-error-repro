@@ -10,3 +10,7 @@ Read more: https://nextjs.org/docs/messages/css-npm
 Location: node_modules/tailwindcss/lib/plugins/preflight.js
 Could not find files for / in .next/build-manifest.json
 ```
+
+To reproduce run
+  1. `npm i`
+  2. `npm run dev`
